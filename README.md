@@ -8,17 +8,13 @@ The projects are written in Python and presented in Jupyter notebooks.
 - Status: completed
 
 ## [Project 2. Car price prediction](https://github.com/MaPl1/DS-study-projects/tree/main/2_price_prediction)
-- Objective: _todo_
-- Tools: _todo_
-- Status: _todo_
+- Objective: to build a model to determine the car value based on historical data: technical specifications, kits and prices of cars.
+- Tools: Python, Pandas, Seaborn, Sklearn, light gbm, logistic regression, random forest.
+- Status: completed
 
 ## [Project 3. Exploratory analysis of game market](https://github.com/MaPl1/DS-study-projects/tree/main/3_game_market_analysis)
 - Objective: to identify patterns that determine the success of the game. This is done by analysing computer games data: sales, genres and platforms, user and critics rates.
 - Tools: Python, Pandas, numpy, Matplotlib, Seaborn, data pre-processing, exploratory data analysis, descriptive statistics, statistical hypothesis testing.
 - Status: completed
 
-## [Project 4. Taxi forecasting with time series](https://github.com/MaPl1/DS-study-projects/tree/main/4_time_series)
-- Objective: _todo_
-- Tools: _todo_
-- Status: _todo_
 
